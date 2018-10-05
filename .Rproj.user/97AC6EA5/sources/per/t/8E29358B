@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537889461398.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8E29358B",
+    "lastKnownWriteTime" : 2469439564179128885,
+    "last_content_update" : 1537889461398,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4C55F68B",
+        "caption" : "novo_and_fines",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=novo_and_fines&cache_key=4C55F68B",
+        "displayedObservations" : "48",
+        "environment" : "",
+        "object" : "novo_and_fines",
+        "preview" : "0",
+        "totalObservations" : "48",
+        "variables" : "9"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

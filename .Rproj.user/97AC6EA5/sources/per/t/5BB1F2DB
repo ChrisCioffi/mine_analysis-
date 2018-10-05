@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537899655327.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5BB1F2DB",
+    "lastKnownWriteTime" : 4559227904,
+    "last_content_update" : 1537899655327,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FFF44A0A",
+        "caption" : "Novo_log",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Novo_log&cache_key=FFF44A0A",
+        "displayedObservations" : 59,
+        "environment" : "",
+        "object" : "Novo_log",
+        "preview" : 0,
+        "totalObservations" : 59,
+        "variables" : 13
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

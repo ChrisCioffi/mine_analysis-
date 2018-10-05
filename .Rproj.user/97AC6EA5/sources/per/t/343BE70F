@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537887593981.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "343BE70F",
+    "lastKnownWriteTime" : 4325703680,
+    "last_content_update" : 1537887593981,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C482267F",
+        "caption" : "company_and_fines",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=company_and_fines&cache_key=C482267F",
+        "displayedObservations" : 22,
+        "environment" : "",
+        "object" : "company_and_fines",
+        "preview" : 0,
+        "totalObservations" : 22,
+        "variables" : 8
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

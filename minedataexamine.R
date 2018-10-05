@@ -1,5 +1,10 @@
-
 inspection_reports <- read.csv('mine_inspections_current.csv')
+
+mine_names <- inspection_reports %>%
+  group_by(siteName, permit) %>%
+  summarise(count = n())
+  
+
 
 attach(inspection_reports)
 #gives the structure of the database
@@ -65,9 +70,3 @@ summary(inspection_reports)
 violations_with_novo <- filter(inspection_reports, str_detect(str_to_lower(comments), "novo"))
   
 
-
-
-# cut it when he starts talking about it htting the root ball. And then describe it from there. 
-
-
-#he's found all kinds of stuff......but what he's really after is flushable wipes. 

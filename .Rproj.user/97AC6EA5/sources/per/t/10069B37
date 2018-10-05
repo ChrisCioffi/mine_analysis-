@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537887271434.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "10069B37",
+    "lastKnownWriteTime" : 9,
+    "last_content_update" : 1537887271434,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3DA09501",
+        "caption" : "mine_and_fines",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mine_and_fines&cache_key=3DA09501",
+        "displayedObservations" : 19,
+        "environment" : "",
+        "object" : "mine_and_fines",
+        "preview" : 0,
+        "totalObservations" : 19,
+        "variables" : 6
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

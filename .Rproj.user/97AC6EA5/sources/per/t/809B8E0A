@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537896316668.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "809B8E0A",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1537896316668,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4F25407A",
+        "caption" : "novo_all",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=novo_all&cache_key=4F25407A",
+        "displayedObservations" : 76,
+        "environment" : "",
+        "object" : "novo_all",
+        "preview" : 0,
+        "totalObservations" : 76,
+        "variables" : 39
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
